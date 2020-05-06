@@ -1,0 +1,3 @@
+- https://zzz.dog/
+- https://gridsome.org/
+- https://github.com/namics/webpack-config-plugins

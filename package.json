@@ -11,13 +11,16 @@
   },
   "keywords": [],
   "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com> (https://tyankatsu.netlify.com/)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tyankatsu0105/zdog-gridsome/issues"
   },
   "homepage": "https://github.com/tyankatsu0105/zdog-gridsome#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "install": "^0.13.0",
     "minireset.css": "0.0.6",
+    "npm": "^6.14.5",
     "zdog": "^1.1.2"
   },
   "devDependencies": {
